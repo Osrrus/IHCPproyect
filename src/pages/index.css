@@ -1,0 +1,296 @@
+.mainContainer {
+    background: #F2F2F2;
+    width: 100vw;
+}
+
+.titleContainer {
+    position: absolute;
+    width: 539px;
+    height: 78px;
+    left: 71px;
+    top: 172px;
+}
+
+#aTitle {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 48px;
+
+    color: #01488A;
+}
+
+.nameContainer {
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    left: 46px;
+    top: 337px;
+}
+
+#aName {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.inputNameContainer {
+    position: absolute;
+    width: 307px;
+    height: 62px;
+    left: 242px;
+    top: 315px;
+    background: rgba(235, 237, 249, 0.3);
+
+    border: 0.75px solid #414141;
+    box-sizing: border-box;
+    border-radius: 19px;
+
+}
+
+.inputNameContainer>a {
+    position: absolute;
+    left: 6.25%;
+    right: 63.12%;
+    top: 33.33%;
+    bottom: 33.33%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 20px;
+
+    color: rgba(109, 101, 101, 0.87);
+
+    border-radius: 19px;
+}
+
+.inputNameContainer>div {
+    position: absolute;
+    left: 6.25%;
+    right: 8.75%;
+    top: 71.43%;
+    bottom: 28.57%;
+
+    border: 0.75px solid rgba(0, 0, 0, 0.21);
+    border-radius: 19px;
+}
+
+.descripcionContainer {
+    position: absolute;
+    width: 132px;
+    height: 29px;
+    left: 46px;
+    top: 442px;
+}
+
+.descripcionContainer>a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.inputDescripcionContainer {
+    position: absolute;
+    width: 567px;
+    height: 186px;
+    left: 242px;
+    top: 419px;
+
+    background: rgba(235, 237, 249, 0.91);
+    border: 0.75px solid #414141;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
+
+.inputDescripcionContainer>a {
+    position: absolute;
+    left: 3.38%;
+    right: 29.05%;
+    top: 14%;
+    bottom: 71%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 24px;
+
+    color: rgba(109, 101, 101, 0.87);
+
+    border-radius: 19px;
+}
+
+.cargarImgContainer {
+    position: absolute;
+    width: 163px;
+    height: 29px;
+    left: 46px;
+    top: 647px;
+}
+
+.cargarImgContainer>a {
+    font-family: robotoregular;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.cargarimgsContainer {
+    position: absolute;
+    width: 286px;
+    height: 182px;
+    left: 242px;
+    top: 647px;
+    background: url('../images/guarapita.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.integrantesContainer {
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    left: 46px;
+    top: 874px;
+}
+
+.integrantesContainer>a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.inputIntegrantesContainer {
+    position: absolute;
+    width: 307px;
+    height: 62px;
+    left: 242px;
+    top: 852px;
+
+    background: rgba(235, 237, 249, 0.3);
+    border: 0.75px solid #414141;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
+
+.inputIntegrantesContainer>a {
+    position: absolute;
+    left: 6.25%;
+    right: 63.12%;
+    top: 33.33%;
+    bottom: 33.33%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 20px;
+
+    color: rgba(109, 101, 101, 0.87);
+
+    border-radius: 19px;
+}
+
+.inputIntegrantesContainer>div {
+    position: absolute;
+    left: 6.25%;
+    right: 8.75%;
+    top: 71.43%;
+    bottom: 28.57%;
+
+    border: 0.75px solid rgba(0, 0, 0, 0.21);
+    border-radius: 19px;
+}
+
+.imgAnuncio {
+    position: absolute;
+    width: 549px;
+    height: 368px;
+    left: 61%;
+    top: 25%;
+
+    background: url(../images/tu-emprendimiento.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 10px;
+}
+
+.buttonContainer {
+    position: absolute;
+    width: 433px;
+    height: 50px;
+    left: 64.5%;
+    bottom: 5%;
+}
+
+.cancelarButton {
+    position: absolute;
+    left: 0%;
+    right: 53.81%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #EB5757;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+
+.cancelarButton>a {
+    position: absolute;
+    left: 28%;
+    top: 22%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #F2F2F2;
+}
+
+.aceptarButton {
+    position: absolute;
+    left: 53.81%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: linear-gradient(180deg, #0085FF 0%, #0462B8 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+
+.aceptarButton>a {
+    position: absolute;
+    right: 30%;
+    top: 22%;
+    bottom: 10%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #F2F2F2;
+}

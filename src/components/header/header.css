@@ -1,0 +1,104 @@
+.header {
+    position: absolute;
+    width: 100%;
+    height: 88px;
+    left: 0px;
+    top: 0px;
+    background: #0085FF;
+}
+
+.headerMenu {
+    width: 52px;
+    height: 38px;
+    position: absolute;
+    left: 1.46%;
+    right: 96.32%;
+    top: 31.82%;
+    bottom: 31.82%;
+    background: url('../../images/menu.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.serchTag {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 19px;
+}
+
+#aSerchTag {
+    position: absolute;
+    left: 7.09%;
+    right: 32.77%;
+    top: 21.43%;
+    bottom: 42.86%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 20px;
+
+    color: #BCBCBC;
+
+    border-radius: 19px;
+}
+
+.serchImg {
+    position: absolute;
+    left: 86.49%;
+    right: 6.76%;
+    top: 28.57%;
+    bottom: 23.81%;
+
+    background: url(../../../public/icons/lupa.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.serchContainer {
+    position: absolute;
+    left: 56.25%;
+    right: 23.19%;
+    top: 25%;
+    bottom: 27.27%;
+}
+
+.userImg {
+    position: absolute;
+    left: 93.82%;
+    right: 2.36%;
+    top: 18.18%;
+    bottom: 19.32%;
+    background: url(../../../public/icons/estudiante_hombre.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 19px;
+}
+
+.userContainer {
+    position: absolute;
+    left: 80%;
+    right: 6.94%;
+    top: 34.09%;
+    bottom: 36.36%;
+}
+
+#aUser {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #F2F2F2;
+}
+

@@ -1,0 +1,343 @@
+.proyectoContainer {
+    position: absolute;
+    width: 1049px;
+    height: 352px;
+    left: 15vw;
+    top: 20%;
+    background: rgba(235, 237, 249, 0.91);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+
+
+#nameProyecto {
+    position: absolute;
+    left: 4.1%;
+    right: 50.33%;
+    top: 18.75%;
+    bottom: 60.79%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 48px;
+
+    color: #58910F;
+
+}
+
+#descricionProyecto {
+    position: absolute;
+    left: 5.24%;
+    right: 38.23%;
+    top: 46.95%;
+    bottom: 33.41%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #333333;
+
+    /* Gray 1 */
+    border-radius: 19px;
+}
+
+#imgProyecto {
+    position: absolute;
+    left: 63.26%;
+    right: 15%;
+    top: 24.12%;
+    bottom: 56.75%;
+    width: 310px;
+    height: 196px;
+
+
+    border-radius: 10px;
+    background: url('../images/guarapita.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#comentarios {
+
+    position: absolute;
+    width: 144px;
+    height: 29px;
+    left: 54px;
+    top: 535px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+#like {
+    position: absolute;
+    width: 42px;
+    height: 29px;
+    left: 1199px;
+    top: 521px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #D75A4A;
+}
+
+#heart {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 1152px;
+    top: 512px;
+    background: url('../images/like.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#comentario1 {
+    position: absolute;
+    width: 769px;
+    height: 55px;
+    left: 126px;
+    top: 587px;
+}
+
+#comentario2 {
+    position: absolute;
+    width: 499px;
+    height: 55px;
+    left: 126px;
+    top: 669px;
+}
+
+#comentario3 {
+    position: absolute;
+    width: 901px;
+    height: 186px;
+    left: 126px;
+    top: 765px;
+}
+
+#userImg1 {
+    position: absolute;
+    left: 0%;
+    right: 92.85%;
+    top: 0%;
+    bottom: 0%;
+    /* Estudiante Mujer */
+    background: url(../images/learning.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 19px;
+}
+
+#userImg2 {
+    position: absolute;
+    left: 0%;
+    right: 88.98%;
+    top: 0%;
+    bottom: 0%;
+
+    /* Egresada */
+    background: url(../images/graduate.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 19px;
+}
+
+#userImg3 {
+    position: absolute;
+    left: 0%;
+    right: 93.9%;
+    top: 0%;
+    bottom: 70.43%;
+
+
+    /* Egresado */
+    background: url(../images/graduate1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 19px;
+}
+
+#buttonEnviar {
+    position: absolute;
+    width: 159.14px;
+    height: 40px;
+    left: 1085px;
+    top: 951px;
+
+    background: linear-gradient(180deg, #0085FF 0%, #0462B8 100%);
+    /* Sombra clara */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+
+#buttonEnviar>a {
+
+    position: absolute;
+    top: 18%;
+    left: 32%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    text-align: center;
+
+    color: #F2F2F2;
+}
+
+#cBackground1 {
+    position: absolute;
+    left: 8.32%;
+    right: 9.75%;
+    top: 0%;
+    bottom: 0%;
+
+    background: rgba(235, 237, 249, 0.91);
+    /* Gris */
+    border: 0.25px solid #414141;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#cNane1 {
+    position: absolute;
+    left: 11.18%;
+    right: 76.07%;
+    top: 25.45%;
+    bottom: 25.45%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #0085FF;
+
+    /* Azul claro */
+    border-radius: 19px;
+}
+
+#cComentario1 {
+
+    position: absolute;
+    left: 23.93%;
+    right: 0%;
+    top: 25.45%;
+    bottom: 25.45%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 24px;
+
+    color: rgba(109, 101, 101, 0.87);
+
+    border-radius: 19px;
+}
+
+#cComentario2 {
+    position: absolute;
+    left: 39.88%;
+    right: 0%;
+    top: 25.45%;
+    bottom: 25.45%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 24px;
+
+    color: rgba(109, 101, 101, 0.87);
+
+    border-radius: 19px;
+}
+
+#cBackground2 {
+    position: absolute;
+    left: 12.83%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: rgba(235, 237, 249, 0.91);
+    /* Gris */
+    border: 0.25px solid #414141;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+#cNane2 {
+
+    position: absolute;
+    left: 17.23%;
+    right: 68.34%;
+    top: 25.45%;
+    bottom: 25.45%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #0085FF;
+
+    /* Azul claro */
+    border-radius: 19px;
+}
+
+#cComentario3 {
+    position: absolute;
+    left: 3.38%;
+    right: 29.05%;
+    top: 14%;
+    bottom: 71%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    font-size: 24px;
+
+    color: rgba(109, 101, 101, 0.87);
+
+    border-radius: 19px;
+}
+
+#cBackground3 {
+    position: absolute;
+    left: 7.99%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: rgba(235, 237, 249, 0.91);
+    /* Gris */
+    border: 0.75px solid #414141;
+    box-sizing: border-box;
+    border-radius: 19px;
+}

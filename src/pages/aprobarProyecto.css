@@ -1,0 +1,217 @@
+.page2nameContainer {
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    left: 53px;
+    top: 204px;
+}
+
+#page2aName {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.page2proyectName {
+    position: absolute;
+    width: 491px;
+    height: 57px;
+    left: 242px;
+    top: 190px;
+
+}
+
+.page2proyectName>a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 48px;
+
+    color: #01488A;
+}
+
+.page2descripcionContainer {
+    position: absolute;
+    width: 132px;
+    height: 29px;
+    left: 53px;
+    top: 356px;
+}
+
+.page2descripcionContainer>a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.page2inputDescripcionContainer {
+    position: absolute;
+    width: 567px;
+    height: 186px;
+    left: 242px;
+    top: 307px;
+
+    background: rgba(235, 237, 249, 0.91);
+    border: 0.75px solid #414141;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
+
+.page2inputDescripcionContainer>a {
+    position: absolute;
+    left: 3.38%;
+    right: 29.05%;
+    top: 14%;
+    bottom: 71%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #333333;
+}
+
+.page2cargarImgContainer {
+    position: absolute;
+    width: 111px;
+    height: 29px;
+    left: 53px;
+    top: 535px;
+}
+
+.page2cargarImgContainer>a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.page2cargarimgsContainer {
+    position: absolute;
+    width: 279px;
+    height: 182px;
+    left: 242px;
+    top: 535px;
+    background: url('../images/guarapita.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.page2integrantesContainer {
+    position: absolute;
+    width: 146px;
+    height: 29px;
+    left: 52px;
+    top: 777px;
+}
+
+.page2integrantesContainer>a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.page2inputIntegrantesContainer {
+    position: absolute;
+    width: 416px;
+    height: 173px;
+    left: 228px;
+    top: 759px;
+    background: rgba(235, 237, 249, 0.91);
+    /* Gris */
+    border: 0.75px solid #414141;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
+
+.page2inputIntegrantesContainer>p {
+    position: absolute;
+    bottom: 20%;
+    left: 5%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #000000;
+}
+
+.page2buttonContainer {
+    position: absolute;
+    width: 433px;
+    height: 50px;
+    left: 64.25%;
+    top: 875px;
+}
+
+.page2cancelarButton {
+    position: absolute;
+    left: 0%;
+    right: 53.281%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #EB5757;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.225);
+    border-radius: 19px;
+}
+
+.page2cancelarButton>a {
+    position: absolute;
+    left: 28%;
+    top: 22%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #F2F2F2;
+}
+
+.page2aceptarButton {
+    position: absolute;
+    left: 53.281%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: linear-gradient(180deg, #0085FF 0%, #0462B8 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.225);
+    border-radius: 19px;
+}
+
+.page2aceptarButton>a {
+    position: absolute;
+    right: 30%;
+    top: 22%;
+    bottom: 10%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #F2F2F2;
+}
